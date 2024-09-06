@@ -54,7 +54,7 @@
 //     return a/b
 // }
 // function solve(fun, num1, num2) {
-//     return fun(num1,num2)
+//     return fun(num1, num2);
 // }
 // console.log(solve(add, 12, 13));
 // console.log(solve(sub, 12, 13));
